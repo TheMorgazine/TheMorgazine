@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2017-09-23 15:48:26
 ---
-<h1>The Bug Park</h1>
 <img title="" src="http://morgazine.shepherdhistory.org/wp-content/uploads/2017/09/null-1.jpeg" alt="" width="624" height="832" />
 
 The Central Park, or “Bug Park” as we referred to it, was a frequent destination when we lived on Clark street. I would take the kids there if we wanted to go somewhere, but I didn’t want to devote the time required to walk to and hang out at one of the parks that were farther.
