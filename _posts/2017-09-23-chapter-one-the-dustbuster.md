@@ -1,6 +1,6 @@
 ---
 ID: 145
-post_title: 'Chapter One &#8211; The Dustbuster'
+post_title: 'The Dustbuster &#8211; Chapter One'
 author: ng23055
 post_excerpt: ""
 layout: post
