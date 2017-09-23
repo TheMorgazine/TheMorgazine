@@ -1,6 +1,6 @@
 ---
 ID: 159
-post_title: 'Chapter Four &#8211; The Dustbuster'
+post_title: 'The Dustbuster &#8211; Chapter Four'
 author: ng23055
 post_excerpt: ""
 layout: post
