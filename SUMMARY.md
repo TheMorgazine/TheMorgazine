@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+
 ## The Dustbuster
 * [Chapter One](_posts/2017-09-23-chapter-one-the-dustbuster.md)
 * [Chapter Two](_posts/2017-09-23-chapter-two-the-dustbuster.md)
