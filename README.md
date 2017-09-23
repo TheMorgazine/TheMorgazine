@@ -1,1 +1,1 @@
-# TheMorgazine
+# The Morgazine
