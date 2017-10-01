@@ -22,6 +22,7 @@
 ## Family
 * [Our Visit to the Chippewa Nature Center](_posts/2017-10-01-our-visit-to-the-chippewa-nature-center.md)
 * [Fun with Golf Balls](_posts/2017-10-01-fun-with-golf-balls.md)
+* [First Days of School 2017](_posts/2017-10-01-first-days-of-school-2017.md)
 
 
 
