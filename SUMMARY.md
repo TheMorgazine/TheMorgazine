@@ -15,5 +15,12 @@
 * [The Bug Park](_posts/2017-09-23-the-bug-park.md)
 * [The Birthday Show](_posts/2017-09-23-the-birthday-show.md)
 
+## Star Trek
+* [My Thoughts on Star Trek](_posts/2017-09-24-my-thoughts-on-star-trek.md)
+* [My Reactions to "Star Trek Discovery"](_posts/2017-09-25-my-reaction-to-star-trek-discovery.md)
+
+## Family
+* [Our Visit to the Chippewa Nature Center](_posts/2017-10-01-our-visit-to-the-chippewa-nature-center.md)
+
 
 
